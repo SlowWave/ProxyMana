@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SlowWave/ProxyMana">
-    <img src="docs/images/proxymana_logo.png" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/SlowWave/ProxyMana/main/docs/images/proxymana_logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">ProxyMana</h3>
