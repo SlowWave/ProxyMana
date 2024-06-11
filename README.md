@@ -1,4 +1,4 @@
-[![PyPI](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/SlowWave/ProxyMana)
+[![PyPI](https://img.shields.io/badge/Version-1.0.1-blue.svg)](https://github.com/SlowWave/ProxyMana)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <br/>

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "proxymana"
-version = "1.0.0"
+version = "1.0.1"
 description = "Simple proxy management tool for scraping and managing free anonymous proxies"
 authors = ["SlowWave <chrs.borgia@gmail.com>"]
 readme = "README.md"
