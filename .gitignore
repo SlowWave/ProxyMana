@@ -1,0 +1,8 @@
+.pytest_cache/
+__pycache__/
+
+# Setuptools distribution and build folders.
+/dist/
+/build
+/wheels
+/wheelhouse
