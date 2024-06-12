@@ -1,9 +1,9 @@
-[![PyPI](https://img.shields.io/badge/Version-1.0.1-blue.svg)](https://github.com/SlowWave/ProxyMana)
+[![PyPI](https://img.shields.io/badge/Version-1.0.1-blue.svg)](https://pypi.org/project/proxymana/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <br/>
 <p align="center">
-  <a href="https://github.com/SlowWave/ProxyMana">
+  <a href="https://pypi.org/project/proxymana/">
     <img src="https://raw.githubusercontent.com/SlowWave/ProxyMana/main/docs/images/proxymana_logo.png" alt="Logo" width="100" height="100">
   </a>
 
